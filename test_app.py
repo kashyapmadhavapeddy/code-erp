@@ -1,4 +1,2 @@
-import streamlit as st
+print("amrutha is a topper")
 
-st.title("Streamlit Working 🎉")
-st.write("If you see this, Streamlit is fixed.")
